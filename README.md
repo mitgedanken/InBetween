@@ -1,2 +1,2 @@
-# in-between
-File Manager
+# InBetween
+File Manager for the web
